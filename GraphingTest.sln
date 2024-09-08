@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GraphingTest", "GraphingTest\GraphingTest.pyproj", "{0CAB97E8-FB24-4F9F-B803-4FC5AB5286AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CAB97E8-FB24-4F9F-B803-4FC5AB5286AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CAB97E8-FB24-4F9F-B803-4FC5AB5286AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F84D868E-080E-4B59-94CC-2727BF3BA316}
+	EndGlobalSection
+EndGlobal
